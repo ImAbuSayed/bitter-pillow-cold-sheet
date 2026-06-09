@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bitter-pillow-cold-sheet/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Bitter Pillow Cold Sheet](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bitter-pillow-cold-sheet/) |
+| **Get License** | [Get a Licensing Quote for Bitter Pillow Cold Sheet](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bitter-pillow-cold-sheet/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I trace the empty spaces where you used to lay
+> Craving the sweet surrender of our secret hideaway
+> Your silhouette is dancing in the midnight glow
+> Leaving me burning fast while the time moves slow
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
