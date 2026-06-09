@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bitter-pillow-cold-sheet/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Bitter Pillow Cold Sheet](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bitter-pillow-cold-sheet/) |
+| **Get License** | [Music Rights & Licensing for Bitter Pillow Cold Sheet](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bitter-pillow-cold-sheet/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2902)
 
 ---
 
