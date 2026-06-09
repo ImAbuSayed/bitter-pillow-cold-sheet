@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bitter Pillow Cold Sheet
+
+This log tracks the cryptographic history and versioning for the song **Bitter Pillow Cold Sheet** (bitter-pillow-cold-sheet).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T18:46:27.760050 | `v1` | `8535e9d2c0ebb486d607a261e440c6dfb764b6485bb12825f380cef77fbf98cf` | `eeadddb904b4e8f574b014ad3b937bbfe22608b828f16a3cd6495d5eb5d77526` | `2026-06-09_bitter-pillow-cold-sheet-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
